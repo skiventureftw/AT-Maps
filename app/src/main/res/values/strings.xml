@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Appalachian Trail Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="vertical_ellipsis">&#8942;</string>
+    <string-array name="options_array">
+        <item>Examples</item>
+        <item>Mount Washington</item>
+        <item>Harpers Ferry</item>
+        <item>Katahdin</item>
+        <item>Springer</item>
+    </string-array>
+</resources>
